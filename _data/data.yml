@@ -7,50 +7,50 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Frida Alejandra Fiesco Arteaga 
+    tagline: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: fridafiesco25@gmail.com
+    phone: 5614253741
+    timezone: Ciudad De Mexico 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:  Frida.fiesco
+    linkedin: Frida.fiesco
+    xing: Frida.fiesco
+    github: Frida.fiesco
+    telegram: Fridafiesco
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: Frida.fiesco
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Idiomas 
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español 
+          level: 
 
-        - idiom: French
-          level: Professional
+        - idiom: 
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
-      title: Interests
+      title: 
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
