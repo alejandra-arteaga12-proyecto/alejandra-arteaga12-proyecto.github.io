@@ -110,8 +110,8 @@ experiences:
           
           
           
-            - Bullet point
-            - Bullet point
+            
+            
       - role: Power Point 
         time: 2021-2023
         company: CETIS N º 32 
@@ -124,8 +124,8 @@ experiences:
           
           
           
-            - Bullet point
-            - Bullet point
+            
+            
       - role: Excel 
         time: 2021-2023
         company: CETIS Nº 32 
@@ -138,14 +138,14 @@ experiences:
           
           
           
-            - Bullet point
-            - Bullet point
+            
+            
 projects:
-    title: Projects
+    title: Access 
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Se utilizar algunas plataformas de internet 
+      
+      
     assignments:
       - title: Velocity
         link: "#hook"
@@ -182,52 +182,52 @@ oss:
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Trabajo En Equipo 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: ""
 
 publications:
-    title: Publications
+    title: Historial Laboral 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      2021-2023
+      
+     
     papers:
-      - title: The Art of Computer Programming
+      - title: Tecnico Ofimatico 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Elaboracion De Documentos 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: " "
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Diapositivas 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Hoja De Calculo y otras plataformas 
+        conference: " "
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Plataformas 
 
     toolset:
-      - name: Python & Django
+      - name: Word 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Power Point 
         level: 98%
 
-      - name: Angular
+      - name: Excel
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Access
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Github
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Google drive 
         level: 60%
 
 footer: >
