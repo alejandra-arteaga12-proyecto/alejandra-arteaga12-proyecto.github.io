@@ -53,21 +53,24 @@ sidebar:
         - item: 
           link:
 
-career-profile:
-    title: Career Profile
+career-profile: 
+    title: Acerca De Mi 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Me considero una persona muy tranquila , alegres ,risueña , soy muy creativa , me gusta mucho bailar , 
+      el maquillaje , escuchar musica , nadar , me gusta pasar tiempo con mis amigos , me gusta aprender 
+      nuevas cosas de mi carrera de Ofimatica .
+      
+      
+      
+      
+      
+      
 education:
-    title: Estudios 
+    title: Direccion 
     info:
-      - degree: Preparatoria 
-        university: 
-        time: 
+      - degree: Av. prolongacion Rio churubusco 
+        university: Mz 34 Lote 48 A
+        time: Agricola pantitlan 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,11 +91,11 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experiencia 
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Word 
+        time: 2021-2023
+        company: CETIS Nº32 
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
