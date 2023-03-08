@@ -141,10 +141,10 @@ experiences:
             
             
 projects:
-    title: Access
+    title: HABILIDADES 
     intro: 
-      Es una herramienta facil de usar para crear un negocio , para saber que productos vendes , 
-      como lo administras .
+      Se manejar algunas aplicaciones que utilizamos en la carrera , ya que con las aplicaciones que utilizamos. 
+      
       
       
     assignments:
@@ -152,36 +152,36 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: EXCEL
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Es un programa que trabaja con hojas de calculo integrado en el entorno Windows y desarrollado por MICROSOFT"
 
-      - title: Tempo
+      - title: POWER POINT 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Es una herramienta que funciona como presentaciones con dispositivos"
 
-      - title: Atom
+      - title: Access
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Es una herramients facil de usar para crear aplicaciones de negocios a partir de plantillas o desde cero "
 
-      - title: Delta
+      - title: GITHUB 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Te permite subir respositorio de codigo para almacenarlo en el sistema de control de versiones github "
 
 oss:
-    title: OSS Contributions
+    title: APTITUDES 
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
+      
+      
     contributions:
-      - title: Tempo
+      - title: Gestion De Proyecto 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: " "
 
-      - title: Atom
+      - title: Diseño De Proyecto 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Te permite subir repositorio de codigo para almacenarlo en el sistema de control de versiones Git "
 
       - title: Trabajo En Equipo 
         link: "#"
