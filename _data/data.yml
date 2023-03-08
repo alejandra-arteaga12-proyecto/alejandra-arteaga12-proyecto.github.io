@@ -23,7 +23,7 @@ sidebar:
     telegram: Fridafiesco
     gitlab:
     bitbucket:
-    twitter: Frida.fiesco
+    twitter: @Frida_fiesco
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -141,9 +141,10 @@ experiences:
             
             
 projects:
-    title: Access 
-    intro: >
-      Se utilizar algunas plataformas de internet 
+    title: Access
+    intro: 
+      Es una herramienta facil de usar para crear un negocio , para saber que productos vendes , 
+      como lo administras .
       
       
     assignments:
